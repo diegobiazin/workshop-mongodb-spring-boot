@@ -2,7 +2,8 @@
 
 ## Sinopse
 
-Projeto utilizando padrão de camadas DDD, CRUD básico, tratamento de erro da requisição, consultas com @Query, retorno de objetos agregados.
+Projeto utilizando boas prátocas de Engenharia de Software tais como desenvolvimento em camadas (DDD) e tratamento de exceções.
+Também são realizadas operações de CRUD, consultas com @Query, retorno de objetos agregados (Banco de dados MongoDB).
 
 ```sh
 \---com
