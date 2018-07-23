@@ -2,7 +2,7 @@
 
 ## Sinopse
 
-Projeto utilizando boas prátocas de Engenharia de Software tais como desenvolvimento em camadas (DDD) e tratamento de exceções.
+Projeto utilizando boas práticas de Engenharia de Software tais como desenvolvimento em camadas (DDD) e tratamento de exceções.
 Também são realizadas operações de CRUD, consultas com @Query, retorno de objetos agregados (Banco de dados MongoDB).
 
 ```sh
